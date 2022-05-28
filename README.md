@@ -1,5 +1,5 @@
 # Desafío Mi Banco
-**CREAR BASE DE DATOS (banco_db)**
+:point_right: **CREAR BASE DE DATOS (banco_db)** :point_left:
 
  ### Comandos en consola para ejecución de programa
  - node index nueva (para iniciar una nueva transacción)
